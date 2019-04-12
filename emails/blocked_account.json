@@ -5,6 +5,4 @@
     "resultUrl": "",
     "syntax": "liquid",
     "body": "./blocked_account.html",
-    "urlLifetimeInSeconds": 432000,
-    "enabled": true
-}
+    "urlLifetimeInSeconds": 432000

@@ -6,3 +6,4 @@
     "syntax": "liquid",
     "body": "./blocked_account.html",
     "urlLifetimeInSeconds": 432000
+}
